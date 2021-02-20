@@ -14,7 +14,7 @@ print('adeifdpple'.translate(table))
 # 문자열 분리하기
 # split(): 공백을 기준으로 문자열을 분리하여 리스트로 만든다.
 # split('기준문자열')
-s = 'messi ronaldo embbape debruyne sonheungmin neymar'.split()
+s = 'messi ronaldo mbappe debruyne sonheungmin neymar'.split()
 print(s)
 
 # 문자열 리스트를 다시 연결해보자
